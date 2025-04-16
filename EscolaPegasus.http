@@ -1,0 +1,6 @@
+@EscolaPegasus_HostAddress = http://localhost:5280
+
+GET {{EscolaPegasus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
